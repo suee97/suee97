@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=24A2ED&center=false&width=435&lines=Hi%2C+I'm+SeungUn)](https://git.io/typing-svg)
 
 Hi, I'm SeungUn Oh, a mobile application developer.  
-I love to be immersed and solve problems. So I'm **Passionate learner and Digger**.  
+I love to be immersed and solve problems. So I'm a **Passionate learner and Digger**.  
   
 ### ► Languages
 <p>
