@@ -30,7 +30,7 @@ I love to be immersed and solve problems. So I'm **Passionate learner and Digger
 </p>
   
 ### ► Github stats
-![Suee97's GitHub stats](https://github-readme-stats.vercel.app/api?username=suee97&count_private=true&show_icons=true&theme=merko)
+![Suee97's GitHub stats](https://github-readme-stats.vercel.app/api?username=suee97&count_private=true&show_icons=true&theme=radical)
   
 ### ► BOJ  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=suee97)](https://solved.ac/suee97/)
