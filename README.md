@@ -29,8 +29,5 @@ I love to be immersed and solve problems. So I'm a **Passionate learner and Digg
   <a href="https://play.google.com/store/apps/details?id=com.start.STart&hl=ko"> <img src="https://img.shields.io/badge/Google Play-414141?style=flat-square&logo=GooglePlay&logoColor=white", width=152, height=40/></a>
 </p>
   
-### ► Github stats
-![Suee97's GitHub stats](https://github-readme-stats.vercel.app/api?username=suee97&count_private=true&show_icons=true&theme=radical)
-  
 ### ► BOJ  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=suee97)](https://solved.ac/suee97/)
