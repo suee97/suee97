@@ -23,7 +23,7 @@ I love to be immersed and solve problems. So I'm a **Passionate learner and Digg
 </p>
   
 ### ► Distribution
-서울과학기술대학교 총학생회 어플리케이션
+총학생회 어플리케이션
 <p>
   <a href="https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C/id1641852619"><img src="https://img.shields.io/badge/App Store-0D96F6?style=flat-square&logo=AppStore&logoColor=white", width=152, height=40/></a> 
   <a href="https://play.google.com/store/apps/details?id=com.start.STart&hl=ko"> <img src="https://img.shields.io/badge/Google Play-414141?style=flat-square&logo=GooglePlay&logoColor=white", width=152, height=40/></a>
